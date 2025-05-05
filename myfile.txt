@@ -1,5 +1,5 @@
 Hey, I'm Avanish Kumar and I'm from Bihar
-I'm a student at SRM IST, Ramapuram 
+I'm a student at SRM IST, Ramapuram and going to graduate in May 2025
 Currently interning at Minfy Technologies
 I've got an assignment on Git fundamentals
 It's divided into Easy, Medium, and Hard levels
