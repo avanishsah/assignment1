@@ -41,4 +41,4 @@ Second Modification (e85c3aa)
 
 Third Modification (8090810)
 - Line 3: Currently interning at Minfy Technologies
-+ Line 3: Currently interning at Minfy Technologies and looking forward for full time employment
++ Line 3: Currently interning at Minfy Technologies and looking forward for full time employment\n## Assignment 2 Completion\n- [x] Created GitHub repository\n- [x] Resolved file conflicts\n- [x] Implemented branch workflow
