@@ -1,4 +1,4 @@
-Hey, I'm Avanish Kumar
+Hey, I'm Avanish Kumar and I'm from Bihar
 I'm a student at SRM IST, Ramapuram 
 Currently interning at Minfy Technologies
 I've got an assignment on Git fundamentals
